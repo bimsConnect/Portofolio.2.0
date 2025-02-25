@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://glorious-portfolio.vercel.app/" target="_blank">
-      <img src="public/images/works/work1.png" alt="Project Banner">
+    <a href="https://portofolio-2-0-three.vercel.app/" target="_blank">
+      <img src="public/images/works/work3.png" alt="Project Banner">
     </a>
   <br />
 
